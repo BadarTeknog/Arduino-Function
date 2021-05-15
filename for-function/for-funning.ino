@@ -1,2 +1,0 @@
-void setuo(){}
-void loop(){}
