@@ -3,3 +3,5 @@ Ini adalah ruang dari kumpulan video tentang Arduino-function. Setiap video memi
 # Beberapa function yang pernah kita buat
 
 # Sosial media Badar Teknog
+
+https://youtube.com/badarteknog
