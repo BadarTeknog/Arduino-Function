@@ -1,6 +1,6 @@
 # millis-Function 
 ini adalah program yang sudah kita buat di youtube 
-- [programnya](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
+- [programnya](https://github.com/BadarTeknog/Arduino-Function/blob/main/millis-function/millis/apa_itu_millis___.ino) 
 - ## Video YouTube Pembahasan
 [![](https://img.youtube.com/vi/ESJhUGszfuE/0.jpg)](https://youtu.be/ESJhUGszfuE
 )
