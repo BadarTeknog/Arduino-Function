@@ -1,6 +1,7 @@
 # Arduino-Function 
 ini adalah program yang sudah kita buat di youtube 
-- programnta
+- programnya
+- [video pembahasan](https://youtu.be/vZRH&Ix6gaE)
 
 
 ## Sosial media Badar Teknog
