@@ -2,7 +2,7 @@
 ini adalah program yang sudah kita buat di youtube 
 - [Part 1 programnya](https://github.com/BadarTeknog/Arduino-Function/blob/main/millis-function/millis/apa_itu_millis___.ino) 
 - ## Video YouTube Pembahasan Part 1
-[![](https://img.youtube.com/vi/FJvyZRN6l0E/0.jpg)](https://youtu.be/FJvyZRN6l0E
+[![](https://img.youtube.com/vi/ESJhUGszfuE/0.jpg)](https://youtu.be/ESJhUGszfuE
 )
 - ## Video YouTube Pembahasan Part 1
 [![](https://img.youtube.com/vi/FJvyZRN6l0E/0.jpg)](https://youtu.be/FJvyZRN6l0E
