@@ -5,9 +5,11 @@ ini adalah program yang sudah kita buat di youtube
 - ## Video YouTube Pembahasan Part 1
 [![](https://img.youtube.com/vi/FJvyZRN6l0E/0.jpg)](https://youtu.be/FJvyZRN6l0E
 )
+Jangan lupa di tonton ya video penjelasanya, danga jangan lupa subscribe ya
 - ## Video YouTube Pembahasan Part 2
 [![](https://img.youtube.com/vi/ESJhUGszfuE/0.jpg)](https://youtu.be/ESJhUGszfuE
 )
+Jangan lupa di tonton ya video penjelasanya, danga jangan lupa subscribe ya
 ## Sosial media Badar Teknog
 
 - [YouTube](https://youtube.com/badarteknog)
