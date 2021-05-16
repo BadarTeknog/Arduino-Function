@@ -2,7 +2,7 @@
 ini adalah program yang sudah kita buat di youtube 
 - [programnya](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
 - [video pembahasan](https://youtu.be/vZRH&Ix6gaE)
-- [![Apa itu for](https://img.youtube.com/vi/vZRH&Ix6gaE/0.jpg)]
+- [![Apa itu for](https://img.youtube.com/vZRH&Ix6gaE/0.jpg)]
 
 
 ## Sosial media Badar Teknog
