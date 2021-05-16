@@ -4,7 +4,9 @@ ini adalah program yang sudah kita buat di youtube
 - ## Video YouTube Pembahasan Part 1
 [![](https://img.youtube.com/vi/FJvyZRN6l0E/0.jpg)](https://youtu.be/FJvyZRN6l0E
 )
-
+- ## Video YouTube Pembahasan Part 1
+[![](https://img.youtube.com/vi/FJvyZRN6l0E/0.jpg)](https://youtu.be/FJvyZRN6l0E
+)
 
 ## Sosial media Badar Teknog
 
