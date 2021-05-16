@@ -1,8 +1,8 @@
 # Arduino-Function 
 ini adalah program yang sudah kita buat di youtube 
 - [programnya](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
-- ## YouTube Video
-- [![](https://img.youtube.com/vi/IT19dg73nKU/0.jpg)](https://youtu.be/IT19dg73nKU
+- ### YouTube Video
+[![](https://img.youtube.com/vi/IT19dg73nKU/0.jpg)](https://youtu.be/IT19dg73nKU
 )
 
 
