@@ -7,7 +7,7 @@
 
 # Arduino-Function 
 ini adalah program yang sudah kita buat di youtube 
-- [Lihat Program ](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
+- [Lihat Program / View Program](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
 - ## Video YouTube Pembahasan
 [![](https://img.youtube.com/vi/vZRH7Ix6gaE/0.jpg)](https://youtu.be/vZRH7Ix6gaE
 )
