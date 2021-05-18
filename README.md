@@ -1,5 +1,12 @@
 # Arduino-Function 
 Ini adalah ruang dari kumpulan video tentang Arduino-function. Setiap video memiliki foldernya sendiri yang berisi kode yang digunakan selama video itu.
+# MultiLED 
+library untuk mempermudah pembuatan running led atau led blink 
+## Donate for me 
+
+[![Donate](https://img.shields.io/badge/Donate-Dana-green.svg)](https://link.dana.id/qr/dh6jn4w)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/BadarTeknog)
+
 ## Beberapa program yang pernah kita buat
 - [for-function](https://github.com/BadarTeknog/Arduino-Function/tree/main/for-function)
 - [millis-function](https://github.com/BadarTeknog/Arduino-Function/tree/main/millis-function)
