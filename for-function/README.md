@@ -1,3 +1,8 @@
+## Donate for me 
+
+[![Donate](https://img.shields.io/badge/Donate-Dana-green.svg)](https://link.dana.id/qr/dh6jn4w)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/BadarTeknog)
+
 # Arduino-Function 
 ini adalah program yang sudah kita buat di youtube 
 - [Lihat Program ](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
