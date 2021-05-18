@@ -6,7 +6,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/BadarTeknog)
 
 # Arduino-Function 
-ini adalah program yang sudah kita buat di youtube 
+ini adalah program yang sudah kita buat di youtube, silahkan copy kode jika membutuhkan 😁
 - [Lihat Kode / View Code](https://github.com/BadarTeknog/Arduino-Function/blob/main/for-function/for-running/for_running.ino) 
 - ## Video YouTube Pembahasan
 [![](https://img.youtube.com/vi/vZRH7Ix6gaE/0.jpg)](https://youtu.be/vZRH7Ix6gaE
