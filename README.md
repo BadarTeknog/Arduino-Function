@@ -18,22 +18,3 @@ lan video tentang Arduino-function. Setiap video memiliki foldernya sendiri yang
 - [Online Shop](https://shopee.co.id/badar_teknog)
 
 
-<script type="text/javascript">
-
-	atOptions = {
-
-		'key' : 'a2c427765329963230de493a69b5de30',
-
-		'format' : 'iframe',
-
-		'height' : 60,
-
-		'width' : 468,
-
-		'params' : {}
-
-	};
-
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplaycontent.com/a2c427765329963230de493a69b5de30/invoke.js"></scr' + 'ipt>');
-
-</script>
