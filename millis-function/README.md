@@ -16,6 +16,6 @@ ini adalah program yang sudah kita buat di youtube
 ## Sosial media Badar Teknog
 
 - [YouTube](https://youtube.com/badarteknog)
-- [Website](https://www.badarteknog.com/ target="_blank")
+- [Website](https://www.badarteknog.com)
 - [Instagram](https://instagram.com/badarteknog)
 - [Online Shop](https://shopee.co.id/badar_teknog)
