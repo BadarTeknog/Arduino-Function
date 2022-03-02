@@ -13,7 +13,7 @@ lan video tentang Arduino-function. Setiap video memiliki foldernya sendiri yang
 
 
 - [YouTube](https://youtube.com/badarteknog)
-- [WhatsApp](https://chat.whatsapp.com/I6U3KmrqnQfKv9JLi29ZmO)
+- [Website](https://www.badarteknog.com)
 - [Instagram](https://instagram.com/badarteknog)
 - [Online Shop](https://shopee.co.id/badar_teknog)
 
